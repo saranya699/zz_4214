@@ -1,0 +1,7 @@
+{
+  "name": "zz",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
